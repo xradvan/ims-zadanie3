@@ -1,0 +1,12 @@
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\bin\Debug\netstandard2.0\zadanie3.deps.json
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\bin\Debug\netstandard2.0\zadanie3.dll
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.csprojAssemblyReference.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.csproj.CoreCompileInputs.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.AssemblyInfoInputs.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.AssemblyInfo.cs
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\bin\Debug\netstandard2.0\zadanie3.pdb
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.dll
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\zadanie3.pdb
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\zadanie3\zadanie3\zadanie3\obj\Debug\netstandard2.0\XamlC.stamp

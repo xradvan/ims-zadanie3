@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:zadanie3"
+             x:Class="zadanie3.MainPage">
+    <AbsoluteLayout>
+        <Image Source="z3b.jpeg" HorizontalOptions="CenterAndExpand" Aspect="Fill"/>
+        <StackLayout Padding="15">
+            <Label Text="Zadanie3" FontSize="Large" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+            <Label Text="Meno:" FontSize="Medium" TextColor="White"/>
+            <Entry x:Name="nameEntry" Keyboard="Text" TextColor="White"/>
+            <Label Text="Stupeň náročnosti predmetu:" FontSize="Medium" Margin="0, 30, 0, 0" TextColor="White"/>
+            <Picker x:Name="picker" TextColor="White">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                        <x:String>4</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Label Text="Dĺžka prípravy v hodinách:" FontSize="Medium" Margin="0, 30, 0, 0" TextColor="White"/>
+            <Entry x:Name="prepareEntry" Keyboard="Numeric" TextColor="White"/>
+            <Button Text="Odhadni známku" Clicked="Button_Clicked"/>
+
+        </StackLayout>
+    </AbsoluteLayout>
+    
+</ContentPage>

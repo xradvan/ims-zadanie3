@@ -1,0 +1,11 @@
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\bin\Debug\netcoreapp2.1\ai-webservice-console.deps.json
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\bin\Debug\netcoreapp2.1\ai-webservice-console.runtimeconfig.json
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\bin\Debug\netcoreapp2.1\ai-webservice-console.runtimeconfig.dev.json
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\bin\Debug\netcoreapp2.1\ai-webservice-console.dll
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\bin\Debug\netcoreapp2.1\ai-webservice-console.pdb
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.csprojAssemblyReference.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.csproj.CoreCompileInputs.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.AssemblyInfoInputs.cache
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.AssemblyInfo.cs
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.dll
+D:\FEI STU\Ing\Semester_1\IMS\zadanie3\ai-webservice-console\obj\Debug\netcoreapp2.1\ai-webservice-console.pdb
