@@ -4,7 +4,7 @@ Na predikciu bola vybraná MLP.
 (doc/nerual_scheme.jpg)
 
 ## Schéma Azure Webservice
-(doc/web_service.jpg)
+![Azure Webservice](doc/web_service.jpg)
 
 ## Xamarin.Forms Aplikácia
 (doc/xamarin_app.png)
