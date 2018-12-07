@@ -7,4 +7,4 @@ Na predikciu bola vybraná *MLP (Multilayer Perceptron)*. Klientská aplikácia 
 ![Azure Webservice](doc/web_service.jpg)
 
 ## Xamarin.Forms Aplikácia
-![Xamarin.Forms Aplikácia](doc/xamarin_app.png =250x) 
+![Xamarin.Forms Aplikácia](doc/xamarin_app.png) 
