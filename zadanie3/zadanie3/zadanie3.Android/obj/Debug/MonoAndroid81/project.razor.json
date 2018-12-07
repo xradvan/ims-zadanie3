@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\FEI STU\\Ing\\Semester_1\\IMS\\zadanie3\\zadanie3\\zadanie3\\zadanie3.Android\\zadanie3.Android.csproj",
+  "TargetFramework": "v8.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
